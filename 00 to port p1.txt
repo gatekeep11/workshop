@@ -3,3 +3,4 @@ write an 8051 c program hvalue for ascii characters of 01234,5,a to f
 hello sivadharsini you look pretty  awesome
 toggle bits continosly with delay
 continuously 250millisec or 1000 of the aisplay the port p2
+back to December all the time
