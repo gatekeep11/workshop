@@ -1,0 +1,7 @@
+00 to port p1
+write an 8051 c program hvalue for ascii characters of 01234,5,a to f
+write an 8051 c program to toggle all the bits of port p2 continuously
+to send values of  -4 to 2
+to toggle bit d0 of port p1 5000 times87
+toggle bits continosly with delay
+continuously 250millisec or 1000 of the aisplay the port p2
